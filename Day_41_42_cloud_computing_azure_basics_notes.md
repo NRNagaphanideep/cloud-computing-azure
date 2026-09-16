@@ -124,6 +124,5 @@ Hourly Billing & Credits: Azure bills compute resources on a per-minute/per-seco
 Stop / Deallocate Strategy:
 When practical labs are completed, always Stop (Deallocate) the Virtual Machine from the Azure Portal.
 
-Why? When a VM is simply "Stopped" from inside the OS, compute charges may continue. Deallocating releases the compute hardware allocation so you only pay for storage costs (disks), preserving your free tier credits (₹19,109.25+).
-
+Why? When a VM is simply "Stopped" from inside the OS, compute charges may continue. Deallocating releases the compute hardware allocation so you only pay for storage costs (disks), preserving your free tier credits (₹*******).
 Resource Cleanup: Delete the Resource Group when complete to automatically purge all associated resources (VM, disks, network interfaces, public IPs, and VNet).
