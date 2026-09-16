@@ -1,4 +1,4 @@
-y 43: Comprehensive Azure Networking Mastery & Lab Guide
+Day 43: Comprehensive Azure Networking Mastery & Lab Guide
 
 ## Introduction
 Azure Networking forms the backbone of any cloud-based infrastructure. This document provides an exhaustive, production-grade reference for Day 43 of the DevOps learning path. It covers core architectural components, security configurations, advanced routing logic, and hands-on validation labs.
