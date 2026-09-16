@@ -113,3 +113,17 @@
   Open your local machine terminal and execute the following command using the VM's Public IPv4 address:
   ```bash
   ssh azureuser@<Public_IP_Address>. **Efficient IP Management:** Prevents wasting uniused IPv4 addresses within cloud infrastructure.
+Enter the password configured during provisioning to successfully log in to the Ubuntu terminal.
+
+* **Method 2: Azure Portal (Bastion / Connect**)
+Navigate to the VM resource page in the portal, click Connect, and use browser-based SSH login.
+
+### **4. Cost Management & Best Practices (Crucial for Free Tier)**
+Hourly Billing & Credits: Azure bills compute resources on a per-minute/per-second hourly basis against your free tier credits.
+
+Stop / Deallocate Strategy:
+When practical labs are completed, always Stop (Deallocate) the Virtual Machine from the Azure Portal.
+
+Why? When a VM is simply "Stopped" from inside the OS, compute charges may continue. Deallocating releases the compute hardware allocation so you only pay for storage costs (disks), preserving your free tier credits (₹19,109.25+).
+
+Resource Cleanup: Delete the Resource Group when complete to automatically purge all associated resources (VM, disks, network interfaces, public IPs, and VNet).
