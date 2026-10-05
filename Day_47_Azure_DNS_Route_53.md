@@ -1,4 +1,4 @@
-y 47: Domain Name System (DNS) - Azure DNS & AWS Route 53
+Day 47: Domain Name System (DNS) - Azure DNS & AWS Route 53
 
 ## 1. Introduction & Purpose of DNS
 - **Definition**: DNS stands for Domain Name System, often referred to as the "Phone Book of the Internet."
