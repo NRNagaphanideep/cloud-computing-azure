@@ -1,4 +1,4 @@
-y 48: Cloud Identity & IAM (Azure Identity, RBAC, Managed Identities, & AWS IAM Instance Profiles) - Comprehensive Notes
+Day 48: Cloud Identity & IAM (Azure Identity, RBAC, Managed Identities, & AWS IAM Instance Profiles) - Comprehensive Notes
 
 ## 1. Microsoft Entra ID (Azure Active Directory)
 * **What is it?** Microsoft Entra ID is a cloud-based central Identity and Access Management (IAM) service used to manage user identities and control access to cloud resources.
