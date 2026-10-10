@@ -1,4 +1,4 @@
-y 54: FinOps, Auditing, and Monitoring Masterclass
+Day 54: FinOps, Auditing, and Monitoring Masterclass
 
 ---
 
