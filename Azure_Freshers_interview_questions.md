@@ -1,4 +1,4 @@
-zure Fresher Interview Questions & Answers (Master Edition)
+Azure Fresher Interview Questions & Answers (Master Edition)
 
 This comprehensive guide covers all Microsoft Azure topics from your curriculum tailored for entry-level (fresher) DevOps and Cloud Engineer interviews, including full forms, core definitions, theoretical concepts, and practical scenarios.
 
