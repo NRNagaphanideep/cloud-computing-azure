@@ -1,10 +1,7 @@
-y 50: Cloud Storage Masterclass (Azure Storage & AWS Amazon S3)
-
-This document provides a comprehensive, detailed guide covering core storage architectures, patterns, access tiers, and hands-on labs for both **Microsoft Azure Storage** and **Amazon Web Services (AWS) S3**.
-
+Day 50: Cloud Storage Masterclass Azure Storage
 ---
 
-## Part 1: Azure Storage Concepts & Architecture
+## Azure Storage Concepts & Architecture
 
 Azure Storage is Microsoft's managed cloud storage solution designed to be scalable, secure, and highly durable. To use any Azure storage service, you must first create a **Storage Account**.
 
@@ -29,9 +26,9 @@ To protect against hardware failures, Azure replicates data across locations:
 
 ---
 
-## Part 2: Azure Hands-on Practice Guide
+## Azure Hands-on Practice Guide
 
-### Hands-on 1: Creating a Storage Account & Testing Storage Patterns
+### Hands-on: Creating a Storage Account & Testing Storage Patterns
 
 #### **Step 1: Create a Storage Account**
 1. Log in to the [Azure Portal](https://portal.azure.com).
